@@ -1,0 +1,568 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Trường Đại học Quy Nhơn - Trang Tuyển sinh ĐH và SĐH
+Trang chủ
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Giới thiệuĐề án tuyển sinh đại học Phương án tuyển sinh Cẩm nang tuyển sinh Tại sao chọn QNU?Cơ hội việc làmCơ sở vật chấtKý túc xáThông tin cần biếtNgành đào tạo Đại họcNgành đào tạo thạc sĩLiên hệ
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Trang chủ
+
+
+                    NGÀNH ĐÀO TẠO ĐẠI HỌC
+                
+
+
+
+
+
+
+
+
+
+
+Kỹ thuật điện tử - viễn thông
+
+                        28/03/2023
+                    
+
+
+Ngành kỹ thuật điện tử-viễn thông dành cho sinh viên có sở thích và đam mê làm việc trong lĩnh vực công nghệ viễn thông và thông tin, vi mạch, bán dẫn, hệ thống nhúng và hệ thống điện tử ứng dụng, xử lý tín hiệu âm thanh, hình ảnh và đa phương tiện. Chương trình bao gồm các môn học liên quan đến các công nghệ tiêu biểu như thông tin di động và không dây, các hệ thống kết nối Internet IoT, siêu cao tần và an-ten, mạng viễn thông và mạng máy tính, phát thanh truyền hình, xử lý số tín hiệu, vi mạch số, vi mạch tín hiệu tương tự và hỗn hợp, MEMS, thiết kế hệ thống nhúng sử dụng vi điều khiển, FPGA, DSP và SoC.
+
+
+
+
+
+
+
+
+ 
+NGÀNH: KỸ THUẬT ĐIỆN TỬ - VIỄN THÔNG
+Chỉ tiêu: 70
+Tổ hợp môn xét tuyển: A00 (Toán - Vật lý - Hóa học); A01 (Toán - Vật lý - Tiếng Anh); D07 (Toán - Hóa học - Tiếng Anh); K01 (Toán - Tiếng Anh - Tin học); Điểm thi Đánh giá năng lực (ĐGNL)
+Phương thức xét tuyển: 04 phương thức 
+Kết quả thi TN THPT 2023; 
+Kết quả học tập THPT (học bạ); 
+Kết quả thi ĐGNL, tư duy do ĐHQG TPHCM, Trường ĐHSP Hà Nội và các trường đại học khác tổ chức; 
+Tuyển thẳng HSG quốc gia
+Chuyên ngành: Hệ thống nhúng và IoT (New); Điện tử - Viễn thông
+Ngành Kỹ thuật điện tử-viễn thông dành cho sinh viên có sở thích và đam mê làm việc trong các lĩnh vực về công nghệ viễn thông và thông tin, công nghệ và thiết kế mạch tích hợp, thiết kế hệ thống nhúng và điện tử ứng dụng, kỹ thuật xử lý tín hiệu âm thanh-hình ảnh và đa phương tiện. Chương trình bao gồm các môn học cốt lõi thuộc về Kỹ thuật điện tử, Kỹ thuật viễn thông nói chung và Hệ thống nhúng & IoT nói riêng, cùng với các môn học lựa chọn liên quan đến mạng cảm biến không dây, truyền thông đa phương tiện, thiết kế hệ thống nhúng và ứng dụng IoT, trí tuệ nhân tạo và điện toán đám mây … Chương trình đào tạo bậc kỹ sư có khả năng vận hành và khai thác các hệ thống thông tin-viễn thông cũng như triển khai các giải pháp khoa học trong hệ thống điện tử ứng dụng và hệ thống IoT.
+
+1. Mục tiêu đào tạo
+
+•	Đào tạo nguồn nhân lực chất lượng cao trong lĩnh vực Kỹ thuật điện tử-viễn thông đáp ứng yêu cầu ngày càng cao trong thời đại công nghiệp 4.0 và internet vạn vật (IoT).
+
+• Có kiến thức bao quát về khoa học cơ bản, kiến thức chuyên môn sâu và khả năng ứng dụng, thực hành trong lĩnh vực Kỹ thuật điện tử, viễn thông, hệ thống thông tin và IoT; Có khả năng vận hành, khai thác các hệ thống, thiết bị điện tử-viễn thông; Có khả năng nghiên cứu, thiết kế các hệ thống điện tử ứng dụng công nghệ viễn thông, công nghệ vi mạch tích hợp, kỹ thuật xử lý tín hiệu và thông tin trong công nghiệp và dân dụng.
+
+• Có khả năng tiếp tục học tập và nghiên cứu ở bậc cao hơn; Có khả năng tự học, tự cập nhật kiến thức để phát triển bản thân và thích nghi với sự thay đổi nhanh chóng của khoa học kỹ thuật và sự phát triển của xã hội hiện đại.
+
+• Đạt được trình độ ngoại ngữ và công nghệ thông tin theo yêu cầu, từ đó có thể vận hành các thiết bị hiện đại và làm việc hiệu quả cũng như quá trình phát triển nghề nghiệp trong môi trường năng động trên toàn cầu.
+
+• Có đạo đức nghề nghiệp, ứng xử có trách nhiệm và chuyên nghiệp đối với ngành nghề và vì mục tiêu là sự tiến bộ của toàn xã hội.
+
+ 
+2. Điểm mạnh chương trình
+
+• Cơ hội tìm kiếm việc làm dễ dàng với 30 năm kinh nghiệm của cơ sở đào tạo khoa học.
+
+• Chương trình đào tạo được xây dựng dựa trên chương trình chuẩn của Bộ GD&ĐT, mỗi 02 năm chương trình sẽ được cập nhật khoảng 20% thời lượng các môn học theo mục tiêu "Đào tạo gắn liền với thực tế, xu hướng phát triển".
+
+• Môi trường học tập năng động, cơ sở vật chất hiện đại và tiện nghi.
+
+• Hệ thống phòng thí nghiệm, thực hành và xưởng thực tập phong phú, hiện đại và được đầu tư thường xuyên nhằm đáp ứng nhu cầu phát triển của xã hội.
+
+• Được trau dồi kiến thức thực tiễn tại các tập đoàn công nghệ như Viettel, FPT Telecom, Mobile phone, VNPT, các công ty phần mềm như FPT Software, TMA Solutions, …
+ 
+3. Nội dung chương trình
+Thời gian đào tạo 4,5 năm, bao gồm 150 tín chỉ chưa kể phần nội dung về Giáo dục thể chất (03 tín chỉ) và Giáo dục quốc phòng (09 tín chỉ), trong đó:
+
+- Kiến thức giáo dục đại cương
+
+Tiếng Anh, Kỹ năng giao tiếp, Khởi nghiệp, Pháp luật đại cương, …
+
+- Kiến thức giáo dục chuyên nghiệp
+
+• Kiến thức cơ sở ngành và khối ngành: Tin học cơ sở (Kỹ thuật), Tín hiệu và hệ thống, Lý thuyết mạch điện tử, Kỹ thuật điện, Cấu kiện điện tử, Kỹ thuật mạch điện tử 1, Kỹ thuật lập trình, Lý thuyết thông tin, Tiếng Anh chuyên ngành …
+
+• Kiến thức ngành: Kỹ thuật xung-số, Kỹ thuật mạch điện tử 2, Đồ án thiết kế, Thiết kế mạch tích hợp, Cấu trúc dữ liệu và giải thuật, Kỹ thuật vi xử lý, Hệ thống nhúng, Vi điều khiển và ứng dụng, Xử lý tín hiệu số, Anten truyền sóng, Thông tin số, Thông tin vô tuyến, Mạng viễn thông, Kỹ thuật mạng máy tính …
+• Kiến thức chuyên ngành Điện tử-Viễn thông: Điện tử thông tin, Kỹ thuật truyền hình, Thông tin quang , Thông tin di động, Đồ án chuyên ngành … cùng với các môn học tự chọn phù hợp chuyên ngành.
+
+• Kiến thức chuyên ngành Hệ thống nhúng và IoT: Cơ sở và ứng dụng IoT, Truyền thông đa phương tiện, Hệ điều hành nhúng, Thiết kế hệ thống nhúng, Cơ sở dữ liệu ứng dụng, Đồ án chuyên ngành IoT … cùng với các môn học tự chọn phù hợp chuyên nghành.
+
+- Kỹ năng tích lũy
+
+• Có khả năng sử dụng ngoại ngữ và công nghệ thông tin để giải quyết các công việc được giao tại đơn vị công tác trong nước và nước ngoài.
+
+• Có khả năng phân tích, tổng hợp và giải quyết các bài toán kỹ thuật trong thực tế.
+
+• Có khả năng suy nghĩ độc lập, làm việc nhóm hiệu quả, có khả năng trình bày và báo cáo kết quả.
+
+• Có khả năng thiết kế, lắp đặt và vận hành các thiết bị và hệ thống điện tử-viễn thông, các hệ thống thông tin.
+
+• Có trách nhiệm và đạo đức nghề nghiệp; Có khả năng học tập và nghiên cứu suốt đời.
+ 
+4. Phẩm chất và kỹ năng cần có
+
+•	Phẩm chất đạo đức tốt, có sức khỏe và lối sống lành mạnh;
+
+•	Tinh thần ham học hỏi, thái độ học tập nghiêm túc, có tính kiên trì, nhẫn nại, có trách nhiệm;
+
+•	Có kỹ năng làm việc nhóm, kỹ năng sắp xếp và quản lý thời gian một cách hiệu quả.
+
+
+5. Bằng cấp nhận được
+
+Bằng Kỹ sư Kỹ thuật điện tử-viễn thông, chuyên ngành: Điện tử-Viễn thông hoặc Hệ thống nhứng và IoT (thuộc hệ thống văn bằng quốc gia).
+
+
+6. Cơ hội học tiếp trình độ cao hơn
+
+Sinh viên sau khi tốt nghiệp có thể tiếp tục học sau đại học tại Trường Đại học Quy Nhơn hoặc các Trường Đại học và Học viện có uy tín trong nước và trên thế giới.
+
+
+7. Cơ hội việc làm
+
+• Làm việc trong các cơ quan quản lý nhà nước các cấp về Bưu chính, Thông tin-Truyền thông, Khoa học-Công nghệ.
+
+• Làm việc trong các Tập đoàn, Tổng công ty về lĩnh vực Điện tử-Viễn thông: VNPT, Viettel, Mobifone, FPT Telecom; Đài truyền hình, đài phát thanh từ Trung ương đến địa phương và các công ty Truyền thông đa phương tiện …
+
+• Kỹ sư thiết kế hệ thống nhúng, hệ thống IoT và lập trình trong các công ty công nghệ thông tin: FPT Software, TMA Solutions, …
+
+• Kỹ sư thiết kế, vận hành và tư vấn kỹ thuật cho các doanh nghiệp hoạt động trong lĩnh vực sản xuất, kinh doanh, cung cấp thiết bị điện tử, máy tính và viễn thông.
+• Có khả năng thành lập doanh nghiệp về tư vấn thiết kế điện tử-viễn thông, thiết kế và quản trị hệ thống mạng máy tính, …
+
+• Tiếp tục học tập theo định hướng giảng dạy hoặc làm nghiên cứu tại các Viện, Trường Đại học, Cao đẳng và Trung cấp về lĩnh vực điện tử, viễn thông và máy tính.
+ 
+8. Đối tác chiến lược
+
+• Các đơn vị hợp tác đào tạo: ĐH Bách khoa Hà nội; ĐH Bách khoa Đà nẵng, ĐH công nghệ Sydney, …
+
+• Các tập đoàn viễn thông: Tập đoàn viễn thông quân đội 'Viettel', FPT Telecom, viễn thông Mobifone, tập đoàn VNPT ....
+
+• Các công ty về phần mềm & giải pháp kỹ thuật: FPT Software, TMA Solutions, …
+
+• Các tổ chức, cơ quan và doanh nghiệp: Công ty Samsung Electronic, Đài Phát thanh-Truyền hình Bình Định, Truyền hình cáp, Đài Ra đa Vũng chua, …
+
+ 
+9. Cảm nhận cựu sinh viên
+Hiện nay nhóm ngành Cơ khí - Điện - Điện tử nói chung và  Kỹ thuật điện tử - viễn thông nói riêng là một trong những ngành dẫn đầu về nhu cầu nhân lực và dần khẳng định vị thế số 1 của mình trong đời sống kinh tế xã hội. Em cảm thấy rất tự hào khi lựa chọn học ngành này ở Trường ĐH Quy Nhơn (DQN).  4,5 năm theo học tại DQN là thời gian em gắn bó với Câu lạc bộ Điện tử. Môi trường học tập tại DQN giúp em có điều kiện phát huy tối đa năng lực của bản thân không chỉ trong học tập mà còn trong sinh hoạt ngoại khóa, câu lạc bộ. Những kỹ năng và trải nghiệm có được trong quá trình học tập và hoạt động sôi nổi tại DQN đã giúp em thêm tự tin, vững vàng trong công việc và cuộc sống. 
+
+
+
+Nguyễn Văn Lắm
+
+
+
+
+Chức vụ: Giám đốc Trung tâm vận hành khai thác khu vực 3 - Công ty cổ phần Công Trình Viettel - Tập đoàn Viễn thông Quân đội.
+
+
+
+
+Email: vanlam@viettel.com.vn
+
+
+
+10. Đội ngũ tư vấn
+Các chuyên gia tư vấn: 
+1. TS. Huỳnh Công Tú - chuyên ngành thiết kế và chế tạo máy tính, quantum electronic (Tốt nghiệp tại Liên Bang Nga) 
+2. TS. Nguyễn Đức Thiện - chuyên ngành Điện tử - viễn thông (Tốt nghiệp tại Úc) 
+3. TS. Nguyễn Duy Thông - chuyên ngành Kỹ thuật điện tử (Tốt nghiệp tại Hàn Quốc) 
+Và các chuyên gia khác của Bộ môn Điện tử - viễn thông
+Tham gia nhóm tư vấn chuyên sâu tại:
+----------------------
++facebook.com/groups/eceqnu
++https://zalo.me/g/tejlsv753
+11. Sản phẩm khoa học của sinh viên
+
+Robot trinh thám
+
+
+
+Từ khóa:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bình luận
+
+
+
+
+
+
+
+×
+Thành công!
+                            Cám ơn bạn!!
+                        
+
+
+
+
+
+                                    Họ và tên (*)
+
+
+
+
+Tên đăng nhập không được trống.
+
+
+
+                                    Tiêu đề (*)
+
+
+
+
+Nhập vào tiêu đề.
+
+
+Email (*)
+
+
+
+
+Email không hợp lệ
+
+
+
+                                    Nội dung (*)
+
+
+
+
+Nhập vào nội dung.
+
+
+
+
+                                        Mã xác nhận
+                                    
+
+
+
+
+
+
+
+
+
+D6FwGe
+
+
+
+
+
+Gửi
+
+
+Hủy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Lịch làm việc hôm nay
+
+
+
+
+{{dt.NgayGioBD | date :'HH:mm'}} : {{dt.NoiDung}}
+
+
+Địa điểm :{{dt.DiaDiem}}
+                                    
+
+
+
+
+Xem chi tiết
+
+
+
+
+
+
+
+
+
+
+Các tin khác 
+
+
+
+
+
+                                                28/03/2023
+                                            
+Kỹ thuật điện
+
+
+
+
+
+
+
+
+                                                28/03/2023
+                                            
+NGÔN NGỮ ANH
+
+
+
+
+
+
+
+
+                                                28/03/2023
+                                            
+Sư phạm Tiếng Anh
+
+
+
+
+
+
+
+
+                                                28/03/2023
+                                            
+Kỹ thuật điều khiển và Tự động hoá
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Thông tin cần biết
+
+
+
+Đề án tuyển sinh 
+Phương thức tuyển 
+Đăng ký xét tuyển 
+Danh mục ngành đào tạo
+Kết nối Website
+
+
+
+
+
+
+
+
+
+Các chương trình đào tạo
+
+
+
+Đại học chính quy
+Đào tạo sau đại học
+Ðại học vừa làm vừa học
+Liên thông lên đại học
+Đại học văn bằng 2
+
+
+
+
+
+
+
+
+
+Trường Ðại học Quy Nhơn
+
+
+170 An Dương Vương, Tp.  Quy Nhơn
+Kết nối QNU    
+HOTLINE: 1800 55 88 49
+Email: tuvantuyensinh@qnu.edu.vn
+ 
+Copyright © 2018  Ðại học Quy Nhon - Quy Nhon University. All Rights Reserved
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

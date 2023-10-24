@@ -1,0 +1,225 @@
+1693290711178	geckodriver	INFO	Listening on 127.0.0.1:51481
+1693290711696	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "38847" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile02FW47"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: vaapitest: ERROR
+[GFX1-]: vaapitest: VA-API test failed: failed to initialise VAAPI connection.
+
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1693290712505	Marionette	INFO	Marionette enabled
+1693290712547	Marionette	INFO	Listening on port 45301
+WebDriver BiDi listening on ws://127.0.0.1:38847
+Read port: 45301
+1693290712688	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:38847/devtools/browser/f5cff8e0-1ba5-4340-8127-7a03ebe7b072
+JavaScript warning: https://tuyensinh.qnu.edu.vn/Resources/assets/tuyensinh/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tuyensinh.qnu.edu.vn."
+JavaScript warning: https://tuyensinh.qnu.edu.vn/Resources/assets/tuyensinh/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tuyensinh.qnu.edu.vn."
+JavaScript warning: https://tuyensinh.qnu.edu.vn/Resources/assets/tuyensinh/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tuyensinh.qnu.edu.vn."
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-0BGKJHVF8D&l=dataLayer&cx=c, line 440: Script terminated by timeout at:
+aa.mh@https://www.googletagmanager.com/gtag/js?id=G-0BGKJHVF8D&l=dataLayer&cx=c:440:89
+get@https://www.googletagmanager.com/gtag/js?id=G-0BGKJHVF8D&l=dataLayer&cx=c:438:119
+stop@https://www.googletagmanager.com/gtag/js?id=G-0BGKJHVF8D&l=dataLayer&cx=c:438:87
+aa.uk/c/<@https://www.googletagmanager.com/gtag/js?id=G-0BGKJHVF8D&l=dataLayer&cx=c:438:412
+
+1693290733389	Marionette	INFO	Stopped listening on port 45301
+1693290733821	geckodriver::marionette	ERROR	Failed to close browser connection: Socket not connected (os error 107)
+1693291115876	geckodriver	INFO	Listening on 127.0.0.1:40385
+1693291116386	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "36871" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileFwprRF"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: vaapitest: ERROR
+[GFX1-]: vaapitest: VA-API test failed: failed to initialise VAAPI connection.
+
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1693291117045	Marionette	INFO	Marionette enabled
+1693291117089	Marionette	INFO	Listening on port 44217
+WebDriver BiDi listening on ws://127.0.0.1:36871
+Read port: 44217
+1693291117219	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:36871/devtools/browser/bdc07f7e-5dfe-4889-8c79-97b3991edc24
+JavaScript warning: https://tuyensinh.qnu.edu.vn/Resources/assets/tuyensinh/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tuyensinh.qnu.edu.vn."
+JavaScript warning: https://tuyensinh.qnu.edu.vn/Resources/assets/tuyensinh/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tuyensinh.qnu.edu.vn."
+JavaScript warning: https://tuyensinh.qnu.edu.vn/Resources/assets/tuyensinh/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tuyensinh.qnu.edu.vn."
+JavaScript warning: https://tuyensinh.qnu.edu.vn/Resources/assets/tuyensinh/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-0BGKJHVF8D&l=dataLayer&cx=c, line 128: Script terminated by timeout at:
+h@https://www.googletagmanager.com/gtag/js?id=G-0BGKJHVF8D&l=dataLayer&cx=c:128:264
+Yo@https://www.googletagmanager.com/gtag/js?id=G-0BGKJHVF8D&l=dataLayer&cx=c:338:512
+Pv@https://www.googletagmanager.com/gtag/js?id=G-0BGKJHVF8D&l=dataLayer&cx=c:375:689
+fF/<@https://www.googletagmanager.com/gtag/js?id=G-0BGKJHVF8D&l=dataLayer&cx=c:488:153
+aa.uk/<@https://www.googletagmanager.com/gtag/js?id=G-0BGKJHVF8D&l=dataLayer&cx=c:439:126
+aa.uk/c/<@https://www.googletagmanager.com/gtag/js?id=G-0BGKJHVF8D&l=dataLayer&cx=c:438:420
+
+1693291149291	Marionette	INFO	Stopped listening on port 44217
+console.error: services.settings: 
+  Message: NetworkError: Network error: TypeError: NetworkError: Network request failed
+  Stack:
+    APIError@resource://services-settings/RemoteSettingsClient.sys.mjs:111:1
+NetworkError@resource://services-settings/RemoteSettingsClient.sys.mjs:115:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.sys.mjs:911:14
+maybeSync@resource://services-settings/RemoteSettingsClient.sys.mjs:816:38
+
+console.warn: services.settings: main/translations-identification-models sync interrupted by shutdown
+console.warn: services.settings: main/translations-wasm sync interrupted by shutdown
+console.error: (new AbortError("IndexedDB: main/fingerprinting-protection-overrides getLastModified() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.", "resource://services-settings/IDBHelpers.sys.mjs", 16))
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1693292044973	geckodriver	INFO	Listening on 127.0.0.1:58433
+1693292045495	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "58371" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilehqMfaG"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: vaapitest: ERROR
+[GFX1-]: vaapitest: VA-API test failed: failed to initialise VAAPI connection.
+
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1693292046174	Marionette	INFO	Marionette enabled
+1693292046220	Marionette	INFO	Listening on port 42163
+WebDriver BiDi listening on ws://127.0.0.1:58371
+Read port: 42163
+1693292046348	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:58371/devtools/browser/dbabcc78-8974-4bc7-a4e0-50d1ae3779cc
+JavaScript warning: https://tuyensinh.qnu.edu.vn/Resources/assets/tuyensinh/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tuyensinh.qnu.edu.vn."
+JavaScript warning: https://tuyensinh.qnu.edu.vn/Resources/assets/tuyensinh/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1693294033533	geckodriver	INFO	Listening on 127.0.0.1:57573
+1693294034042	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "39935" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileT2BsEu"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: vaapitest: ERROR
+[GFX1-]: vaapitest: VA-API test failed: failed to initialise VAAPI connection.
+
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1693294034779	Marionette	INFO	Marionette enabled
+1693294034822	Marionette	INFO	Listening on port 33085
+WebDriver BiDi listening on ws://127.0.0.1:39935
+Read port: 33085
+1693294034950	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:39935/devtools/browser/896e9029-5b86-49bd-a1b5-2e89408648b7
+JavaScript warning: https://tuyensinh.qnu.edu.vn/Resources/assets/tuyensinh/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tuyensinh.qnu.edu.vn."
+1693294051453	Marionette	INFO	Stopped listening on port 33085

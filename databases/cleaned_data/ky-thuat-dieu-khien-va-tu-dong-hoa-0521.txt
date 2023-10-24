@@ -1,0 +1,59 @@
+Tên ngành: Kỹ thuật điều khiển và Tự động hóa
+Mã ngành: 7520216
+Chỉ tiêu: 70
+Tổ hợp môn xét tuyển: A00 (Toán - Vật lý - Hóa học); A01 (Toán - Vật lý - Tiếng Anh); D07 (Toán - Hóa học - Tiếng ANH); K01 (Toán - Tiếng Anh - Tin học); Điểm thi Đánh giá năng lực (ĐGNL)
+Phương thức xét tuyển: 04 phương thức
+Kết quả thi TN THPT 2023;
+Kết quả học tập THPT (học bạ);
+Kết quả thi ĐGNL, tư duy do ĐHQG TPHCM, Trường ĐHSP Hà Nội và các trường đại học khác tổ chức;
+Tuyển thẳng HSG quốc gia
+Ngành Kỹ thuật điều khiển và tự động hóa
+Ngành Kỹ thuật điều khiển và tự động hóa là sự kết hợp giữa ba lĩnh vực Điều khiển, Tự động hoá và Công nghệ thông tin. Do đó, ngành “Kỹ thuật điều khiển và tự động hoá” trang bị cho người học kiến thức về các lĩnh vực như: Robot, Auto, Smart, IoT, Control, Electronic… cho phép máy móc thay thế con người. Cuộc cách mạng công nghệ 4.0 diễn ra cần có lượng lớn kỹ sư điều khiển và tự động hoá để đáp ứng. Sinh viên tự động hoá ra trường làm việc được trong tất cả các lĩnh vực công nghệ ôt ô, công nghệ chế tạo, cơ khí hoá, điện thông minh, điện tử, lập trình ứng dụng...
+1. Mục tiêu đào tạo
+• Cung cấp các kiến thức về các kỹ thuật điều khiển tự động từ cơ bản đến nâng cao, từ tuyến tính, phi tuyến đến các điều khiển mờ, nơ ron với mục tiêu đạt được sự điều khiển tối ưu, ổn định và thông minh cho hệ thống. Cung cấp các kỹ năng thiết kế, lắp đặt, bảo trì sửa chữa các thiết bị và hệ thống tự động, các thiết bị cảm biến chuyên dụng để tự động hóa các hoạt động sản xuất cũng như đời sống. Cung cấp kỹ năng lập trình cho các thiết bị điều khiển trong công nghiệp như các bộ vi điều khiển, PLC, các thiết bị cảm biến và thu thập dữ liệu… Đáp ứng việc thiết kế các thiết bị điều khiển thông minh ngày nay.
+• Cung cấp các kiến thức cần thiết để sinh viên có thể phân tích, thiết kế các hệ thống điều khiển tự động hóa dây chuyền sản xuất, giám sát quá trình sản xuất trong nhà máy, hệ thống, điều khiển, giám sát và thu thập dữ liệu (SCADA), các chuẩn truyền thông trong công nghiệp như MODBUS,PROFIBUS, CAN bus… Đáp ứng việc vận hành tự động hoá các nhà máy xí nghiệp công nghiệp.
+• Cung cấp các kiến thức cần thiết giúp sinh viên có khả năng thiết kế chế tạo phần cơ khí – điện tử cũng như, thiết kế giải thuật lập trình phần mềm cho các robot ứng dụng trong nhiều lĩnh vực khác nhau. Lĩnh vực chế tạo robot hiện nay là một trong những ngành công nghệ mũi nhọn thu hút nhiều sự chú ý của các nhà khoa học, trong đó vấn đề lập trình trí tuệ nhân tạo cho các robot là vấn đề được quan tâm nhất.Đáp ứng việc chế tạo các robot phục vụ đời sống.
+• Cung cấp kiến thức về lập trình nhúng, IoT, thiết kế các phần mềm điều khiển thông minh, chia sẻ tài nguyên dữ liệu thu thập được, cũng như vận hành các hệ thống điều khiển, giám sát và thu thập dữ liệu từ xa thông quan mạng internet...Đáp ứng thời đại công nghệ 4.0.
+2. Điểm mạnh chương trình
+- Chương trình đào tạo theo hướng ứng dụng, khối lượng thực hành thực tập nhiều;
+- Thị trường lao động cho lĩnh vực Điều khiển và Tự động hoá là rất lớn;
+- Môi trường học tập năng động, cơ sở vật chất hiện đại, phát huy khả năng sáng tạo của sinh viên;
+- Sinh viên được học tại các cơ sở thực tập, thực tế, tham gia nhiều câu lạc bộ thực tiễn.
+3. Nội dung chương trình
+Thời gian đào tạo 4,5 năm, bao gồm 150 tín chỉ, chưa kể phần nội dung Giáo dục thể chất (3 tín chỉ) và Giáo dục quốc phòng (8 tín chỉ), trong đó:
+- Khối kiến thức giáo dục đại cương cơ bản:
+Chính trị, thể chất, toán, lý quốc phòng an ninh, ngoại ngữ, tin học.
+- Khối kiến thức khoa học cơ bản:
+Khối kiến thức khoa học cơ bản giúp người học có kiến thức vững chắc về toán, vật lý để có khả năng tự học, tự nghiên cứu và vận dụng những kiến thức đó để tiếp thu, nắm vững những kiến thức và kỹ năng cơ sở ngành, chuyên sâu về ngành kỹ thuật điều khiển và tự động hoá, có thể tiếp tục học tập ở trình độ cao hơn.
+- Khối kiến thức ngành học:
+Các lĩnh vực được trang bị cho sinh viện ngành Kỹ thuật điều khiển và tự động hoá: Điện tử, điện công nghiệp, điện dân dụng, điều khiển tự động, tự động hoá, thiết kế và chế tạo robot, lập trình ứng dụng, thiết kế và chế tạo vi mạch, IoT, mạng công nghiệp và các hệ thống thông minh.
+- Khối kiến thức kỹ năng:
+Bao gồm kỹ năng tay nghề, kỹ năng thực tập, thực hành, thực tế, kỹ năng giao tiếp và khởi nghiệp.
+4. Phẩm chất và kỹ năng cần có
+-	Phẩm chất đạo đức tốt, có sức khỏe và lối sống lành mạnh;
+- Tinh thần ham học hỏi, thái độ học tập nghiêm túc, có tính kiên trì, nhẫn nại, có trách nhiệm;
+- Có kỹ năng làm việc nhóm, kỹ năng sắp xếp và quản lý thời gian một cách hiệu quả.
+5. Cơ hội việc làm
+- Sinh viên được làm thêm trong quá trình học và 100% có việc làm khi ra trường cụ thể:
++ Làm việc trong các lĩnh vực vận hành lưới điện thông minh, SCADA, thiết bị đo lường, kiểm định và một số công việc khác ở các Công ty điện lực tại các tỉnh.
++ Làm việc trong các lĩnh vực vận hành hệ thống điều khiển, cải tiến sửa chữa một số hỏng hóc, đề xuất một số giải pháp thay thế thiết bị ở các nhà máy phát điện.
++ Thiết kế kỹ thuật, vận hành, giám sát, sửa chữa các dây chuyền sản xuất tại các công ty, nhà máy sản xuất chế tạo trong công nghiệp.
++ Thiết kế, lắp ráp máy cho các công ty sản xuất, lắp đặt máy trong các lĩnh vực điều khiển, tự động hoá, xưởng sản xuất, công nghệ sản xuất tự động, thông minh.
++ Vận hành hệ thống điều khiển, giám sát tại các trung tâm thương mại, khách sạn, toà nhà và các hệ thống điều khiển, giám sát thông minh Smart Home,Smart City.
++ Tự mở doanh nghiệp kinh doanh như công ty tư vấn thiết kế điện thông minh, công ty năng lượng mặt trời, công ty lắp đặt vận hành các hệ thống tự động công nghiệp, công ty kinh doanh các linh kiện, mua bán sửa chữa thiết bị thông minh, phần mềm, camera...
++ Giảng dạy và làm nghiên cứu ở các viện, trường đại học, cao đẳng, trung cấp về lĩnh vực Điện công nghiệp, điều khiển và tự động hóa.
+6. Bằng cấp nhận được
+Kỹ sư: Kỹ thuật điều khiển và Tự động hoá (thuộc hệ thống văn bằng quốc gia).
+7. Cơ hội học tiếp trình độ cao hơn
+Sinh viên tốt nghiệp có thể tiếp tục học sau đại học (thạc sĩ, tiến sĩ) tại Trường ĐH Quy Nhơn, các trường và học viện trong nước và trên thế giới.
+8. Cảm nhận cựu sinh viên
+9. Đối tác chiến lược
+Các đơn vị hợp tác đào tạo: ĐH Bách khoa Hà nội; ĐH Bách khoa Đà nẵng; ĐH công nghệ Sydney.
+Các doanh nghiệp: công ty Điện lực Bình Định, Truyền tải điện Bình Định, công ty cổ phần An Khê – Kanat, công ty TNHH Công viên cây xanh và chiếu sáng đô thị Quy Nhơn, Công ty Tự động, Công Ty cổ phần Sữa Việt Nam - Chi nhánh Bình Định, Công Ty TNHH Kỹ Thuật Tự Động Phú Tài, Công ty CP Dược - Trang thiết bị y tế Bình Định…
+10. Người phụ trách tư vấn tuyển sinh
+TBM: TS. Đỗ Văn Cần
+Đ/C: 170 An Dương Vương, Quy Nhơn, Bình Định
+Email: dvcan@ftt.edu.vn
+Web: ftt.edu.vn
+ĐT (zalo): 0935253630
+11. Sản phẩm nghiên cứu của dự kiến sinh viên

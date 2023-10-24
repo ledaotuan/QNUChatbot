@@ -1,0 +1,668 @@
+1693290597616	geckodriver	INFO	Listening on 127.0.0.1:60445
+1693290598152	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "46221" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileqKVGxZ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693290600799	geckodriver	INFO	Listening on 127.0.0.1:56657
+1693290601318	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "37169" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilec2Inm1"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: vaapitest: ERROR
+[GFX1-]: vaapitest: VA-API test failed: failed to initialise VAAPI connection.
+
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1693290602141	Marionette	INFO	Marionette enabled
+1693290602212	Marionette	INFO	Listening on port 41443
+WebDriver BiDi listening on ws://127.0.0.1:37169
+Read port: 41443
+1693290602248	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:37169/devtools/browser/dc98b7bf-f0d8-4bcc-9697-abc35ee73540
+1693290612760	Marionette	INFO	Stopped listening on port 41443
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1693290837293	geckodriver	INFO	Listening on 127.0.0.1:59441
+1693290837803	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "47515" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile32mvma"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: vaapitest: ERROR
+[GFX1-]: vaapitest: VA-API test failed: failed to initialise VAAPI connection.
+
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1693290838475	Marionette	INFO	Marionette enabled
+1693290838520	Marionette	INFO	Listening on port 46805
+WebDriver BiDi listening on ws://127.0.0.1:47515
+Read port: 46805
+1693290838658	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:47515/devtools/browser/84572b5e-4ee2-4fb1-95de-00d67bf18679
+JavaScript warning: https://tuyensinh.qnu.edu.vn/Resources/assets/tuyensinh/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tuyensinh.qnu.edu.vn."
+JavaScript warning: https://tuyensinh.qnu.edu.vn/Resources/assets/tuyensinh/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tuyensinh.qnu.edu.vn."
+JavaScript warning: https://tuyensinh.qnu.edu.vn/Resources/assets/tuyensinh/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-0BGKJHVF8D&l=dataLayer&cx=c, line 129: Script terminated by timeout at:
+Sa@https://www.googletagmanager.com/gtag/js?id=G-0BGKJHVF8D&l=dataLayer&cx=c:129:437
+Yo@https://www.googletagmanager.com/gtag/js?id=G-0BGKJHVF8D&l=dataLayer&cx=c:338:519
+Pv@https://www.googletagmanager.com/gtag/js?id=G-0BGKJHVF8D&l=dataLayer&cx=c:375:689
+fF/<@https://www.googletagmanager.com/gtag/js?id=G-0BGKJHVF8D&l=dataLayer&cx=c:488:153
+aa.uk/<@https://www.googletagmanager.com/gtag/js?id=G-0BGKJHVF8D&l=dataLayer&cx=c:439:126
+aa.uk/c/<@https://www.googletagmanager.com/gtag/js?id=G-0BGKJHVF8D&l=dataLayer&cx=c:438:420
+
+1693290894627	Marionette	INFO	Stopped listening on port 46805
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1693291980765	geckodriver	INFO	Listening on 127.0.0.1:47763
+1693291981286	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "42885" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilexBWlgZ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: vaapitest: ERROR
+[GFX1-]: vaapitest: VA-API test failed: failed to initialise VAAPI connection.
+
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1693291981960	Marionette	INFO	Marionette enabled
+1693291982006	Marionette	INFO	Listening on port 35111
+WebDriver BiDi listening on ws://127.0.0.1:42885
+Read port: 35111
+1693291982141	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:42885/devtools/browser/bc7bfa8d-4708-4111-800b-4bc7287da57e
+JavaScript warning: https://tuyensinh.qnu.edu.vn/Resources/assets/tuyensinh/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tuyensinh.qnu.edu.vn."
+JavaScript warning: https://tuyensinh.qnu.edu.vn/Resources/assets/tuyensinh/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-0BGKJHVF8D&l=dataLayer&cx=c, line 129: Script terminated by timeout at:
+Sa@https://www.googletagmanager.com/gtag/js?id=G-0BGKJHVF8D&l=dataLayer&cx=c:129:437
+Yo@https://www.googletagmanager.com/gtag/js?id=G-0BGKJHVF8D&l=dataLayer&cx=c:338:519
+Pv@https://www.googletagmanager.com/gtag/js?id=G-0BGKJHVF8D&l=dataLayer&cx=c:375:689
+fF/<@https://www.googletagmanager.com/gtag/js?id=G-0BGKJHVF8D&l=dataLayer&cx=c:488:153
+aa.uk/<@https://www.googletagmanager.com/gtag/js?id=G-0BGKJHVF8D&l=dataLayer&cx=c:439:126
+aa.uk/c/<@https://www.googletagmanager.com/gtag/js?id=G-0BGKJHVF8D&l=dataLayer&cx=c:438:420
+
+1693292098918	Marionette	INFO	Stopped listening on port 35111
+1693293882779	geckodriver	INFO	Listening on 127.0.0.1:38879
+1693293883300	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "57075" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile49UyuB"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: vaapitest: ERROR
+[GFX1-]: vaapitest: VA-API test failed: failed to initialise VAAPI connection.
+
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1693293884002	Marionette	INFO	Marionette enabled
+1693293884046	Marionette	INFO	Listening on port 39815
+WebDriver BiDi listening on ws://127.0.0.1:57075
+Read port: 39815
+1693293884180	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:57075/devtools/browser/1517eae2-58f5-4bb0-9892-b5e9b465fc46
+JavaScript warning: https://tuyensinh.qnu.edu.vn/Resources/assets/tuyensinh/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tuyensinh.qnu.edu.vn."
+1693293898383	Marionette	INFO	Stopped listening on port 39815
+1693294251781	geckodriver	INFO	Listening on 127.0.0.1:48673
+1693294252303	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "59515" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileuG5Fiq"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: vaapitest: ERROR
+[GFX1-]: vaapitest: VA-API test failed: failed to initialise VAAPI connection.
+
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1693294252998	Marionette	INFO	Marionette enabled
+1693294253041	Marionette	INFO	Listening on port 35707
+WebDriver BiDi listening on ws://127.0.0.1:59515
+Read port: 35707
+1693294253179	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:59515/devtools/browser/7340ed92-2334-4648-9587-a7a35bb639d2
+JavaScript warning: https://tuyensinh.qnu.edu.vn/Resources/assets/tuyensinh/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tuyensinh.qnu.edu.vn."
+JavaScript warning: https://tuyensinh.qnu.edu.vn/Resources/assets/tuyensinh/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tuyensinh.qnu.edu.vn."
+JavaScript warning: https://tuyensinh.qnu.edu.vn/Resources/assets/tuyensinh/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tuyensinh.qnu.edu.vn."
+1693294277765	Marionette	INFO	Stopped listening on port 35707
+1693295068191	geckodriver	INFO	Listening on 127.0.0.1:34813
+1693295068717	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "52233" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileXg8Xit"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: vaapitest: ERROR
+[GFX1-]: vaapitest: VA-API test failed: failed to initialise VAAPI connection.
+
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1693295069428	Marionette	INFO	Marionette enabled
+1693295069473	Marionette	INFO	Listening on port 45189
+WebDriver BiDi listening on ws://127.0.0.1:52233
+Read port: 45189
+1693295069609	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:52233/devtools/browser/222d0197-9097-40ea-9192-a4714e40b497
+JavaScript warning: https://tuyensinh.qnu.edu.vn/Resources/assets/tuyensinh/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1693295428462	geckodriver	INFO	Listening on 127.0.0.1:33061
+1693295428470	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "37939" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilenwRbp3"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: vaapitest: ERROR
+[GFX1-]: vaapitest: VA-API test failed: failed to initialise VAAPI connection.
+
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1693295429188	Marionette	INFO	Marionette enabled
+1693295429231	Marionette	INFO	Listening on port 35975
+WebDriver BiDi listening on ws://127.0.0.1:37939
+Read port: 35975
+1693295429372	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:37939/devtools/browser/b81f7eb2-d9dc-4a45-9e9d-756bc916d59e
+JavaScript warning: https://tuyensinh.qnu.edu.vn/Resources/assets/tuyensinh/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-0BGKJHVF8D&l=dataLayer&cx=c, line 440: Script terminated by timeout at:
+aa.mh@https://www.googletagmanager.com/gtag/js?id=G-0BGKJHVF8D&l=dataLayer&cx=c:440:89
+get@https://www.googletagmanager.com/gtag/js?id=G-0BGKJHVF8D&l=dataLayer&cx=c:438:119
+stop@https://www.googletagmanager.com/gtag/js?id=G-0BGKJHVF8D&l=dataLayer&cx=c:438:87
+aa.uk/c/<@https://www.googletagmanager.com/gtag/js?id=G-0BGKJHVF8D&l=dataLayer&cx=c:438:412
+
+1693295682226	Marionette	INFO	Stopped listening on port 35975
+1693296809653	geckodriver	INFO	Listening on 127.0.0.1:50931
+1693296810175	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "56645" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilede1rr6"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: vaapitest: ERROR
+[GFX1-]: vaapitest: VA-API test failed: failed to initialise VAAPI connection.
+
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1693296810895	Marionette	INFO	Marionette enabled
+1693296810937	Marionette	INFO	Listening on port 34983
+WebDriver BiDi listening on ws://127.0.0.1:56645
+Read port: 34983
+1693296811072	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:56645/devtools/browser/90f8bd3d-8a14-4b04-b4ea-f7b338b65174
+JavaScript warning: https://tuyensinh.qnu.edu.vn/Resources/assets/tuyensinh/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tuyensinh.qnu.edu.vn."
+JavaScript warning: https://tuyensinh.qnu.edu.vn/Resources/assets/tuyensinh/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tuyensinh.qnu.edu.vn."
+JavaScript warning: https://tuyensinh.qnu.edu.vn/Resources/assets/tuyensinh/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tuyensinh.qnu.edu.vn."
+JavaScript warning: https://tuyensinh.qnu.edu.vn/Resources/assets/tuyensinh/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tuyensinh.qnu.edu.vn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tuyensinh.qnu.edu.vn."
+1693296862228	Marionette	INFO	Stopped listening on port 34983
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1693297216098	geckodriver	INFO	Listening on 127.0.0.1:48611
+1693297216617	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "42077" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileNEqqES"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: vaapitest: ERROR
+[GFX1-]: vaapitest: VA-API test failed: failed to initialise VAAPI connection.
+
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1693297217316	Marionette	INFO	Marionette enabled
+1693297217365	Marionette	INFO	Listening on port 44393
+WebDriver BiDi listening on ws://127.0.0.1:42077
+Read port: 44393
+1693297217504	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:42077/devtools/browser/94cf4d64-e7ff-4cee-8d17-7ecc4c8f762e
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1693297267969	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, channelStatus: 2152398850, errorCode: 5, reason: timeout
+1693297272496	Marionette	INFO	Stopped listening on port 44393
+console.error: (new Error("Polling for changes failed: NetworkError: Network request failed.", "resource://services-settings/remote-settings.sys.mjs", 324))
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1693297280281	geckodriver	INFO	Listening on 127.0.0.1:37969
+1693297280800	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "51093" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileQhOv3Q"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: vaapitest: ERROR
+[GFX1-]: vaapitest: VA-API test failed: failed to initialise VAAPI connection.
+
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1693297281504	Marionette	INFO	Marionette enabled
+1693297281552	Marionette	INFO	Listening on port 33405
+WebDriver BiDi listening on ws://127.0.0.1:51093
+Read port: 33405
+1693297281694	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:51093/devtools/browser/a325ee77-40d7-4fc8-ae66-63f749018867
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1693297310561	geckodriver	INFO	Listening on 127.0.0.1:50879
+1693297310570	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "59301" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile5CysdR"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: vaapitest: ERROR
+[GFX1-]: vaapitest: VA-API test failed: failed to initialise VAAPI connection.
+
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1693297311268	Marionette	INFO	Marionette enabled
+1693297311313	Marionette	INFO	Listening on port 34461
+WebDriver BiDi listening on ws://127.0.0.1:59301
+Read port: 34461
+1693297311449	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:59301/devtools/browser/7aef4824-31c7-46bc-882c-df55e153281d
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1693297348643	Marionette	INFO	Stopped listening on port 34461
+1693297348848	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, channelStatus: 2147746065, errorCode: 2, reason: error
+console.error: (new Error("Polling for changes failed: NetworkError: Network request failed.", "resource://services-settings/remote-settings.sys.mjs", 324))
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1693297356189	geckodriver	INFO	Listening on 127.0.0.1:45885
+1693297356709	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "42837" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilexz15Rx"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: vaapitest: ERROR
+[GFX1-]: vaapitest: VA-API test failed: failed to initialise VAAPI connection.
+
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1693297357430	Marionette	INFO	Marionette enabled
+1693297357475	Marionette	INFO	Listening on port 42277
+WebDriver BiDi listening on ws://127.0.0.1:42837
+Read port: 42277
+1693297357610	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:42837/devtools/browser/6da48f08-0182-4fc8-9120-dda659e5d48a
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1693297407998	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, channelStatus: 2152398850, errorCode: 5, reason: timeout
+1693297455295	Marionette	INFO	Stopped listening on port 42277
+console.error: (new Error("Polling for changes failed: NetworkError: Network request failed.", "resource://services-settings/remote-settings.sys.mjs", 324))
+1693297669056	geckodriver	INFO	Listening on 127.0.0.1:46467
+1693297669574	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "36597" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileSly7iB"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: vaapitest: ERROR
+[GFX1-]: vaapitest: VA-API test failed: failed to initialise VAAPI connection.
+
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1693297670317	Marionette	INFO	Marionette enabled
+1693297670361	Marionette	INFO	Listening on port 46191
+WebDriver BiDi listening on ws://127.0.0.1:36597
+Read port: 46191
+1693297670496	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:36597/devtools/browser/b146c29a-7efe-4901-8f9c-47abc9472553
+1693297693546	Marionette	INFO	Stopped listening on port 46191
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+!!! error running onStopped callback: TypeError: callback is not a function
+1693297693737	WebDriver BiDi	ERROR	Failed to stop protocol: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: chrome://remote/content/marionette/cert.sys.mjs :: allowAllCerts.disable :: line 51"  data: no] Stack trace: allowAllCerts.disable()@cert.sys.mjs:51
+destroy()@Session.sys.mjs:217
+deleteSession()@WebDriverBiDi.sys.mjs:142
+stop()@WebDriverBiDi.sys.mjs:230
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1693297713768	geckodriver	INFO	Listening on 127.0.0.1:43037
+1693297714288	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "47707" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofiledL83Mf"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: vaapitest: ERROR
+[GFX1-]: vaapitest: VA-API test failed: failed to initialise VAAPI connection.
+
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1693297715020	Marionette	INFO	Marionette enabled
+1693297715064	Marionette	INFO	Listening on port 36247
+WebDriver BiDi listening on ws://127.0.0.1:47707
+Read port: 36247
+1693297715204	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:47707/devtools/browser/e811e2cf-0c59-456f-bba3-ecb3a1b53454
+JavaScript warning: https://tuyensinh.qnu.edu.vn/Resources/assets/tuyensinh/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tuyensinh.qnu.edu.vn."
+JavaScript warning: https://tuyensinh.qnu.edu.vn/Resources/assets/tuyensinh/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tuyensinh.qnu.edu.vn."
+JavaScript warning: https://tuyensinh.qnu.edu.vn/Resources/assets/tuyensinh/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tuyensinh.qnu.edu.vn."
+JavaScript warning: https://tuyensinh.qnu.edu.vn/Resources/assets/tuyensinh/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tuyensinh.qnu.edu.vn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tuyensinh.qnu.edu.vn."
+1693297770086	Marionette	INFO	Stopped listening on port 36247
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1693297834455	geckodriver	INFO	Listening on 127.0.0.1:51577
+1693297834977	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "53617" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileVhVhUO"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: vaapitest: ERROR
+[GFX1-]: vaapitest: VA-API test failed: failed to initialise VAAPI connection.
+
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1693297835682	Marionette	INFO	Marionette enabled
+1693297835728	Marionette	INFO	Listening on port 41727
+WebDriver BiDi listening on ws://127.0.0.1:53617
+Read port: 41727
+1693297835868	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:53617/devtools/browser/c9256844-6bd2-47f1-8ecf-16ef40c3b2ac
+JavaScript warning: https://tuyensinh.qnu.edu.vn/Resources/assets/tuyensinh/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tuyensinh.qnu.edu.vn."
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript warning: https://tuyensinh.qnu.edu.vn/Resources/assets/tuyensinh/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tuyensinh.qnu.edu.vn."
+JavaScript warning: https://tuyensinh.qnu.edu.vn/Resources/assets/tuyensinh/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tuyensinh.qnu.edu.vn."
+JavaScript warning: https://tuyensinh.qnu.edu.vn/Resources/assets/tuyensinh/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+JavaScript error: https://tuyensinh.qnu.edu.vn/vi/tong-hop-nganh-dao-tao, line 703: ReferenceError: wrap is not defined
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tuyensinh.qnu.edu.vn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tuyensinh.qnu.edu.vn."
+1693297885564	Marionette	INFO	Stopped listening on port 41727
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1693298032907	geckodriver	INFO	Listening on 127.0.0.1:36481
+1693298033429	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "50275" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilef0KfVb"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: vaapitest: ERROR
+[GFX1-]: vaapitest: VA-API test failed: failed to initialise VAAPI connection.
+
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1693298034152	Marionette	INFO	Marionette enabled
+1693298034196	Marionette	INFO	Listening on port 44307
+WebDriver BiDi listening on ws://127.0.0.1:50275
+Read port: 44307
+1693298034334	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:50275/devtools/browser/271c2565-0b49-4378-a072-af6499b69a2a
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1693298084920	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, channelStatus: 2152398850, errorCode: 5, reason: timeout
+1693298097856	Marionette	INFO	Stopped listening on port 44307
+console.error: (new Error("Polling for changes failed: NetworkError: Network request failed.", "resource://services-settings/remote-settings.sys.mjs", 324))
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1693298103942	geckodriver	INFO	Listening on 127.0.0.1:35331
+1693298104465	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "35923" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilezAxmVD"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: vaapitest: ERROR
+[GFX1-]: vaapitest: VA-API test failed: failed to initialise VAAPI connection.
+
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1693298105171	Marionette	INFO	Marionette enabled
+1693298105223	Marionette	INFO	Listening on port 35915
+WebDriver BiDi listening on ws://127.0.0.1:35923
+Read port: 35915
+1693298105365	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:35923/devtools/browser/4f5a0497-6170-43b2-ac29-6c931c3ee44d
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1693298155733	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, channelStatus: 2152398850, errorCode: 5, reason: timeout
+1693298160883	Marionette	INFO	Stopped listening on port 35915
+console.error: (new Error("Polling for changes failed: NetworkError: Network request failed.", "resource://services-settings/remote-settings.sys.mjs", 324))
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1693298179930	geckodriver	INFO	Listening on 127.0.0.1:36885
+1693298179943	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "32829" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileQoLFpz"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: vaapitest: ERROR
+[GFX1-]: vaapitest: VA-API test failed: failed to initialise VAAPI connection.
+
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1693298180639	Marionette	INFO	Marionette enabled
+1693298180683	Marionette	INFO	Listening on port 46649
+WebDriver BiDi listening on ws://127.0.0.1:32829
+Read port: 46649
+1693298180823	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:32829/devtools/browser/5dc4cca5-e6ef-4e00-bcb8-4c8a42ee1bad
+1693298184562	Marionette	INFO	Stopped listening on port 46649
+1693298194080	geckodriver	INFO	Listening on 127.0.0.1:38527
+1693298194091	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "33021" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileBMYwNE"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: vaapitest: ERROR
+[GFX1-]: vaapitest: VA-API test failed: failed to initialise VAAPI connection.
+
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1693298194829	Marionette	INFO	Marionette enabled
+1693298194880	Marionette	INFO	Listening on port 45693
+WebDriver BiDi listening on ws://127.0.0.1:33021
+Read port: 45693
+1693298194969	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:33021/devtools/browser/7ad01a66-c9b9-40b3-906a-f01dc799cc92
+1693298216626	Marionette	INFO	Stopped listening on port 45693
+1693298217471	geckodriver::marionette	ERROR	Failed to close browser connection: Socket not connected (os error 107)
+1693298224201	geckodriver	INFO	Listening on 127.0.0.1:43743
+1693298224718	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "45005" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileYuX2xt"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: vaapitest: ERROR
+[GFX1-]: vaapitest: VA-API test failed: failed to initialise VAAPI connection.
+
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1693298225434	Marionette	INFO	Marionette enabled
+1693298225480	Marionette	INFO	Listening on port 37667
+WebDriver BiDi listening on ws://127.0.0.1:45005
+Read port: 37667
+1693298225615	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:45005/devtools/browser/17aa6778-9b22-494e-a764-afc9baef2a22
+JavaScript warning: https://tuyensinh.qnu.edu.vn/Resources/assets/tuyensinh/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tuyensinh.qnu.edu.vn."
+1693298234900	Marionette	INFO	Stopped listening on port 37667
+1693298428710	geckodriver	INFO	Listening on 127.0.0.1:46277
+1693298429229	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "56475" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileyUhiWt"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: vaapitest: ERROR
+[GFX1-]: vaapitest: VA-API test failed: failed to initialise VAAPI connection.
+
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1693298429939	Marionette	INFO	Marionette enabled
+1693298429984	Marionette	INFO	Listening on port 41577
+WebDriver BiDi listening on ws://127.0.0.1:56475
+Read port: 41577
+1693298430121	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:56475/devtools/browser/9e3044e8-3d6a-4039-bce4-71d3ca920972
+JavaScript warning: https://tuyensinh.qnu.edu.vn/Resources/assets/tuyensinh/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tuyensinh.qnu.edu.vn."
+1693298440607	Marionette	INFO	Stopped listening on port 41577
+1693298496885	geckodriver	INFO	Listening on 127.0.0.1:46689
+1693298497405	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "41471" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileJGsCRH"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: vaapitest: ERROR
+[GFX1-]: vaapitest: VA-API test failed: failed to initialise VAAPI connection.
+
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1693298498117	Marionette	INFO	Marionette enabled
+1693298498161	Marionette	INFO	Listening on port 37869
+WebDriver BiDi listening on ws://127.0.0.1:41471
+Read port: 37869
+1693298498297	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:41471/devtools/browser/39193169-b054-43a4-8ff7-73d4267d14e3
+JavaScript warning: https://tuyensinh.qnu.edu.vn/Resources/assets/tuyensinh/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tuyensinh.qnu.edu.vn."
+1693298502796	Marionette	INFO	Stopped listening on port 37869
+1693298513019	geckodriver	INFO	Listening on 127.0.0.1:50779
+1693298513031	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "58087" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileVLuebr"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: vaapitest: ERROR
+[GFX1-]: vaapitest: VA-API test failed: failed to initialise VAAPI connection.
+
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1693298513760	Marionette	INFO	Marionette enabled
+1693298513803	Marionette	INFO	Listening on port 45519
+WebDriver BiDi listening on ws://127.0.0.1:58087
+Read port: 45519
+1693298513943	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:58087/devtools/browser/17ad5683-f742-4a1f-80c7-760712d7b3dd
+JavaScript warning: https://tuyensinh.qnu.edu.vn/Resources/assets/tuyensinh/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tuyensinh.qnu.edu.vn."
+1693298517783	Marionette	INFO	Stopped listening on port 45519
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1693298586495	geckodriver	INFO	Listening on 127.0.0.1:56019
+1693298587011	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "53315" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilek69cNZ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: vaapitest: ERROR
+[GFX1-]: vaapitest: VA-API test failed: failed to initialise VAAPI connection.
+
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1693298587722	Marionette	INFO	Marionette enabled
+1693298587766	Marionette	INFO	Listening on port 33139
+WebDriver BiDi listening on ws://127.0.0.1:53315
+Read port: 33139
+1693298587901	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:53315/devtools/browser/06b96a74-67ae-4a37-ac90-f5704ea0b047
+JavaScript warning: https://tuyensinh.qnu.edu.vn/Resources/assets/tuyensinh/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tuyensinh.qnu.edu.vn."
+JavaScript warning: https://tuyensinh.qnu.edu.vn/Resources/assets/tuyensinh/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tuyensinh.qnu.edu.vn."
+JavaScript warning: https://tuyensinh.qnu.edu.vn/Resources/assets/tuyensinh/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tuyensinh.qnu.edu.vn."
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+JavaScript warning: https://tuyensinh.qnu.edu.vn/Resources/assets/tuyensinh/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tuyensinh.qnu.edu.vn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tuyensinh.qnu.edu.vn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tuyensinh.qnu.edu.vn."
+1693298640544	Marionette	INFO	Stopped listening on port 33139

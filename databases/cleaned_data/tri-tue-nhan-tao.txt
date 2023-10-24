@@ -1,0 +1,44 @@
+Mã ngành: 7480207
+Chỉ tiêu: 100
+Trí tuệ nhân tạo (Artificial Intelligence - AI) là một ngành của khoa học máy tính liên quan đến việc tự động hóa các hành vi thông minh, tạo ra các máy móc, hệ thống thông minh thông qua việc sử dụng mô hình máy tính, kỹ thuật và công nghệ liên quan, giúp thực hiện các công việc yêu cầu trí thông minh của con người. Trí tuệ nhân tạo có thể xử lý dữ liệu ở mức rộng lớn hơn, quy mô hơn, hệ thống, khoa học và nhanh hơn so với con người. Đây là ngành đào tạo mũi nhọn hướng đến sự phát triển của công nghệ và khoa học kỹ thuật trong thời đại số hóa ngày nay, đặc biệt là trong bối cảnh của cuộc cách mạng công nghiệp lần thứ 4.
+Tổ hợp môn xét tuyển: A00 (Toán - Vật lý - Hóa học); A01 (Toán - Vật lý - Tiếng Anh); D07 (Toán – Hóa học - Tiếng Anh); D90 (Toán – KHTN – Tiếng Anh); Điểm thi Đánh giá năng lực (ĐGNL)
+Phương thức: 04 phương thức
+Kết quả thi TN THPT 2023;
+Kết quả học tập THPT (học bạ);
+Kết quả thi ĐGNL, tư duy do ĐHQG TPHCM, Trường ĐHSP Hà Nội và các trường đại học khác tổ chức;
+Tuyển thẳng HSG quốc gia
+1. Mục tiêu đào tạo
+- Đào tạo ra những con người có đủ kỹ năng, kiến thức nền tảng và chuyên sâu về lĩnh vực công nghệ thông tin để có thể tham gia nghiên cứu, thiết kế, phát triển, cài đặt, vận hành, bảo trì các hệ thống phần mềm, hệ thống thông tin chuyên về trí tuệ nhân tạo,… cho các tập đoàn, công ty, tổ chức hoặc cá nhân.
+- Có năng lực thích ứng, làm việc và sáng tạo với các xu hướng công nghệ của công nghiệp 4.0, đặc biệt là trí tuệ nhân tạo, dữ liệu lớn, học máy...
+- Thành thạo ngoại ngữ, có những kỹ năng mềm và phẩm chất chuyên nghiệp cần thiết để làm việc hiệu quả trong môi trường quốc tế.
+2. Điểm mạnh chương trình
+- Học phí cạnh tranh.
+- Gần 30 năm kinh nghiệm đào tạo Công nghệ thông tin.
+- Đội ngũ giảng viên giàu kinh nghiệm, tận tâm với nghề, được đào tạo từ các trường Đại học danh tiếng trong và ngoài nước.
+- Chương trình đào tạo được xây dựng theo quy chuẩn của Bộ GD&ĐT, kế thừa từ các chương trình đào tạo của những đại học hàng đầu tại những nước phát triển như Mỹ, Nhật, Australia, Pháp,... gắn kết chặt chẽ với các doanh nghiệp trong ngành, đồng thời được cập nhật liên tục những công nghệ, những xu hướng mới nhất hiện nay như: phát triển các ứng dụng trí tuệ nhân tạo, phân tích và xử lý dữ liệu lớn, lập trình cho các ứng dụng trên nền tảng điện toán đám mây, lập trình ứng dụng trên các nền tảng di động,...
+- Môi trường học tập năng động, cơ sở vật chất hiện đại, tiện nghi.
+- Người học được trau dồi những kỹ năng cần thiết qua các chuyến đi thực tập, thực tế, trải nghiệm tại các công ty phần mềm chuyên nghiệp.
+3. Phẩm chất và kỹ năng cần có:
+Có đam mê với công nghệ, đặc biệt là công nghệ thông tin, điện thoại, máy tính. Có tính tò mò, ham học hỏi. Có tư duy logic. Yêu thích lập trình, giỏi tiếng Anh là một ưu thế khi học.
+4. Bằng cấp nhận được
+Bằng Cử nhân trí tuệ nhân tạo (thuộc hệ thống văn bằng quốc gia).
+5. Cơ hội học tiếp ở trình độ cao hơn
+Sinh viên sau khi tốt nghiệp có khả năng học tiếp cao học, tiến sĩ với các ngành thuộc nhóm ngành Công nghệ thông tin tại các cơ sở đào tạo trong và ngoài nước.
+6. Cơ hội việc làm
+Hiện nay nhu cầu nhân lực Công nghệ thông tin, đặc biệt là ngành trí tuệ nhân tạo là rất lớn, nên 100% sinh viên tốt nghiệp ngành này có việc làm đúng chuyên môn ngay sau khi tốt nghiệp tại các công ty, tổ chức với mức lương từ 15 đến 50 triệu tại Quy Nhơn, Đà Nẵng, TP. Hồ Chí Minh, Hà Nội, các tỉnh miền Trung và Tây Nguyên. Đặc biệt, Quy Nhơn đang được chọn là nơi xây dựng trung tâm trí tuệ nhân tạo của Việt Nam và thế giới.
+Các vị trí công việc mà một cử nhân trí tuệ nhân tạo thường đảm nhận là:
+- Đảm nhận các vị trí từ Lập trình viên đến Giám đốc dự án trong các dự án phát triển phần mềm, giải pháp ứng dụng trí tuệ nhân tạo như xử lý ngôn ngữ tự nhiên, thị giác máy, xử lý và phân tích dữ liệu lớn v.v…trong các tập đoàn công nghệ lớn (như FPT, TMA, Fujinet Systems, VinGroup, Vietel, VNPT,…) và các công ty công nghệ thông tin trong và ngoài nước.
+- Đảm nhận các vị trí từ Lập trình viên đến Quản lý trong các dự án phát triển phần mềm game, di động, thương mại điện tử thông minh, ứng dụng quản lý thông minh,…
+- Chuyên gia kỹ thuật, vận hành, quản lý các hệ thống thông minh;
+- Chuyên gia quản lý, điều phối các dự án công nghệ thông tin;
+- Chuyên gia quản lý, kinh doanh công nghệ thông tin;
+- Khởi nghiệp trong lĩnh vực cung cấp, phát triển các giải pháp, chương trình phân tích dữ liệu và ứng dụng của trí tuệ nhân tạo để phục vụ cuộc sống.
+- Làm chuyên viên nghiên cứu sâu về trí tuệ nhân tạo trong các công ty công nghệ, viễn thông, doanh nghiệp sản xuất.
+- Có thể tiếp tục học tập và nghiên cứu về công nghệ tại các trung tâm, viện nghiên cứu.
+7. Đối tác chiến lược
+TMA Solutions, FPT Software, Fujinet Systems, Gameloft, v.v...
+8. Tư vấn tuyển sinh
+TS. Lê Xuân Việt
+lexuanviet@qnu.edu.vn
+0905.532.296
+http://kcntt.qnu.edu.vn

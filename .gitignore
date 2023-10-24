@@ -1,0 +1,8 @@
+*.png
+meta_docs.json
+chunks.parquet
+launch.json
+*.pyc
+*.bin
+*.sqlite3
+*.pickle
